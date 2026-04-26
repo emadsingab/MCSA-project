@@ -141,16 +141,6 @@ Implemented multiple Group Policies:
 
 ---
 
-<hr/>
-
-<div align="center">
-
-<h3>Emad Singab</h3>
-
-<p>
-Infrastructure • System Administration • Cloud • Virtualization
-</p>
-
 <p>
 <a href="https://www.linkedin.com/in/emad-singab-189775320/">LinkedIn</a> • 
 <a href="https://github.com/emadsingab">GitHub</a>
